@@ -78,9 +78,11 @@ ecommerce-backend/
 └── .env.example        # Example environment variables
  ``` 
 ---
-##📬 Contact
-  -Email:alabadallahahmad16@gmail.com
-  -phone:+963969793510 
+## 📬 Contact
+
+- Email: alabadallahahmad16@gmail.com
+- Phone: +963969793510
+
 
 
 
