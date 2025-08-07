@@ -35,7 +35,6 @@ Supports user authentication, product management, order handling, and admin role
 
 Create a `.env` file in the root of the project and add the following variables:
 
-```env
 PORT=
 MONGO_URI=
 JWT_SECRET_KEY=
@@ -51,7 +50,8 @@ API_KEY_SECRET=
 ## 🛠️ Installation
 
 ### Clone the repository:
-   ```bash
+   
+bash
    git clone https://github.com/ahmad19999999999/ecommerce-backend.
    
 ### Navigate to the project directory:
@@ -76,10 +76,12 @@ ecommerce-backend/
 ├── config/             # Database connection & Cloudinary setup
 ├── server.js           # Application entry point
 └── .env.example        # Example environment variables
-
-###📬 Contact
+---
+##📬 Contact
   Email:alabadallahahmad16@gmail.com
-  phone:+963969793510
+  phone:+963969793510 عدلي ياها بس
+
+
 
 
 
