@@ -34,7 +34,7 @@ Supports user authentication, product management, order handling, and admin role
 ### 📄 Environment Variables
 
 Create a `.env` file in the root of the project and add the following variables:
-
+ ``` 
 PORT=
 MONGO_URI=
 JWT_SECRET_KEY=
@@ -46,6 +46,7 @@ SMTP_PASS=
 CLOUDINARY_NAME=
 API_KEY=
 API_KEY_SECRET=
+ ``` 
 ---
 ## 🛠️ Installation
 
@@ -66,7 +67,7 @@ API_KEY_SECRET=
    npm run start
 ---
 ## 📂 Project Structure
-
+ ``` 
 ecommerce-backend/
 ├── controllers/        # Business logic for API endpoints
 ├── routes/             # API route definitions
@@ -75,7 +76,7 @@ ecommerce-backend/
 ├── config/             # Database connection & Cloudinary setup
 ├── server.js           # Application entry point
 └── .env.example        # Example environment variables
-
+ ``` 
 ---
 ##📬 Contact
   Email:alabadallahahmad16@gmail.com
