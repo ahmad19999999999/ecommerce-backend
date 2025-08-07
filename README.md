@@ -51,7 +51,6 @@ API_KEY_SECRET=
 
 ### Clone the repository:
    
-bash
    git clone https://github.com/ahmad19999999999/ecommerce-backend.
    
 ### Navigate to the project directory:
@@ -76,10 +75,11 @@ ecommerce-backend/
 ├── config/             # Database connection & Cloudinary setup
 ├── server.js           # Application entry point
 └── .env.example        # Example environment variables
+
 ---
 ##📬 Contact
   Email:alabadallahahmad16@gmail.com
-  phone:+963969793510 عدلي ياها بس
+  phone:+963969793510 
 
 
 
