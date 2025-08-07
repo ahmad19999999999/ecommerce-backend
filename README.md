@@ -55,16 +55,21 @@ API_KEY_SECRET=
    git clone https://github.com/ahmad19999999999/ecommerce-backend.
    
 ### Navigate to the project directory:
+ ``` 
    cd ecommerce-backend
-
+ ``` 
 ### Install dependencies:
+ ``` 
    npm install
-
+ ``` 
 ### Copy the example environment file and configure it:
+ ``` 
    cp .env.example .env
-
+ ``` 
 ### Start the server:
+ ``` 
    npm run start
+ ``` 
 ---
 ## 📂 Project Structure
  ``` 
