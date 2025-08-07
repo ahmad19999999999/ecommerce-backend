@@ -48,25 +48,25 @@ CLOUDINARY_NAME=
 API_KEY=
 API_KEY_SECRET=
 
-### 🛠️ Installation
+## 🛠️ Installation
 
-1. Clone the repository:
+### Clone the repository:
    ```bash
    git clone https://github.com/ahmad19999999999/ecommerce-backend.
    
-2.Navigate to the project directory:
+### Navigate to the project directory:
    cd ecommerce-backend
 
-3.Install dependencies:
+### Install dependencies:
    npm install
 
-4.Copy the example environment file and configure it:
+### Copy the example environment file and configure it:
    cp .env.example .env
 
-5.Start the server:
+### Start the server:
    npm run start
 
-###📂 Project Structure
+## 📂 Project Structure
 
 ecommerce-backend/
 ├── controllers/        # Business logic for API endpoints
