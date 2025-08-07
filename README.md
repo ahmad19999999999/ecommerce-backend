@@ -47,7 +47,7 @@ SMTP_PASS=
 CLOUDINARY_NAME=
 API_KEY=
 API_KEY_SECRET=
-
+---
 ## 🛠️ Installation
 
 ### Clone the repository:
@@ -65,7 +65,7 @@ API_KEY_SECRET=
 
 ### Start the server:
    npm run start
-
+---
 ## 📂 Project Structure
 
 ecommerce-backend/
