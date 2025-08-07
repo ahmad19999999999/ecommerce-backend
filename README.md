@@ -79,8 +79,9 @@ ecommerce-backend/
 ├── models/             # Mongoose schemas
 ├── middlewares/        # Authentication & error handling
 ├── config/             # Database connection & Cloudinary setup
-├── server.js           # Application entry point
+├── index.js            # Application entry point
 └── .env.example        # Example environment variables
+└── utils               # for functionalty e_comerce
  ``` 
 ---
 ## 📬 Contact
