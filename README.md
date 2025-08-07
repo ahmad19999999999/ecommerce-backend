@@ -79,8 +79,8 @@ ecommerce-backend/
  ``` 
 ---
 ##📬 Contact
-  Email:alabadallahahmad16@gmail.com
-  phone:+963969793510 
+  -Email:alabadallahahmad16@gmail.com
+  -phone:+963969793510 
 
 
 
